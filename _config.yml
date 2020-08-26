@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Samuel Armbrust's Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Samuel Armbrust"
 description              : &description "personal description"
 url                      : https://armbrustsamuel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Samuel Armbrust"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Novo Hamburgo"

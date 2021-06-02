@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Unisinos Teaching experience 1"
 collection: teaching
 type: "Teacher assistant"
 permalink: /teaching/2021-spring-teaching-1

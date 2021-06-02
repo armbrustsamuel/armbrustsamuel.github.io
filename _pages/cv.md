@@ -17,15 +17,21 @@ Education
 
 Work experience
 ======
+* Software Intern: 2012
+  * Tecsistel
 * Software Intern: 2013
-  * SAP
+  * SAP Labs Latin America
 * Software Developer: 2019
-  * SAP
+  * SAP Labs Latin America
 * Software Architect: 2021 (current)
-  * SAP  
+  * SAP Labs Latin America
   
 Skills
 ======
+* Research
+  * Coronary artery diseases
+  * Maths
+  * Electronics
 * Development
   * Python
   * Java
@@ -34,6 +40,9 @@ Skills
   * Design Pattern
   * Documentation
   * Customer focus
+* Security
+  * Secure design
+  * Threat Assessment
 * Presentation
 * Branding
 

@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Electronic Technician, Liberato, 2012
+* B.S Computer Engineer, Unisinos University, 2019
+* M.S. Applied Computing, Unisinos University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Intern: 2013
+  * SAP
+* Software Developer: 2019
+  * SAP
+* Software Architect: 2021 (current)
+  * SAP  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Development
+  * Python
+  * Java
+  * ABAP
+* Architecture
+  * Design Pattern
+  * Documentation
+  * Customer focus
+* Presentation
+* Branding
 
 Publications
 ======

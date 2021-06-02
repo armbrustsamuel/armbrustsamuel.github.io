@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Workshop"
+type: "Teacher assistant"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Unisinos, Programa de Pós Graduação em Computação Aplicada"
 date: 2021-01-01

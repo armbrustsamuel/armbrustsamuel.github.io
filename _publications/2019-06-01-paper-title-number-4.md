@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-06-01-paper-title-number-2
 excerpt: 'This poster is about a technique to measure narrowing in coronary arteries diseases.'
 date: 2019-06-01
-venue: 'Journal of Brazilian Society of Cardiology ABC Cardiol - Arquivos Brasileiros de Cardiologia'
+venue: 'Pesquisa+'
 paperurl: 'http://www.casaleiria.com.br/avaliacao/unisinos/pesquisa.html#page=34'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---

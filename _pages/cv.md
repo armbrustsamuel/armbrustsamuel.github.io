@@ -17,11 +17,9 @@ Education
 
 Work experience
 ======
-* Software Intern: 2012
-  * Tecsistel
 * Software Intern: 2013
   * SAP Labs Latin America
-* Software Developer: 2019
+* Software Developer: 2014
   * SAP Labs Latin America
 * Software Architect: 2021 (current)
   * SAP Labs Latin America

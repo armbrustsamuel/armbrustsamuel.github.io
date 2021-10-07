@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Samuel Armbrust. I am a Master's student at [Unisinos](http://www.unisinos.br/mestrado-e-doutorado/computacao-aplicada/presencial/sao-leopoldo/mestrado/discentes) working with Coronary Artery Diseases(CAD). 
+My name is Samuel Armbrust, hi 👋. 
 
-I am a Senior Software Developer at SAP. I am passionate by Architecture, Healthcare researches and the German Culture.
+I am M.Sc student at [Unisinos](http://www.unisinos.br/mestrado-e-doutorado/computacao-aplicada/presencial/sao-leopoldo/mestrado/discentes) working with Coronary Artery Diseases(CAD). 
+
+- 🔭 I’m currently working at SAP as a Software Architect.
+- 🌱 I’m currently learning Object Detection Networks and it is not simple.
+- ⚡ I’m currently studying Coronary Artery Disease(CAD) on my Master's degree.
+- 🤔 I am passionate by Architecture, Healthcare researches and the German Culture.
+
+
 
 
 

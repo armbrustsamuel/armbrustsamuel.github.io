@@ -11,7 +11,10 @@ paperurl: 'https://issuu.com/scientiaprima/docs/scientia_prima_vol1_n1'
 ---
 
 <h1 align="center">
-  <a>This paper is about the mathematical concepts in Electronics. </a>
+  <a>A Matemática da Eletrônica </a>
   <br/> 
-  <a>[Download paper here](https://issuu.com/scientiaprima/docs/scientia_prima_vol1_n1)</a>
 </h1>
+
+> This paper is about the mathematical concepts in Electronics.
+
+[Download paper here](https://issuu.com/scientiaprima/docs/scientia_prima_vol1_n1)

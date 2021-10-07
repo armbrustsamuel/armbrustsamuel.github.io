@@ -11,9 +11,12 @@ paperurl: 'http://www.casaleiria.com.br/avaliacao/unisinos/pesquisa.html#page=34
 ---
 
 <h1 align="center">
-  <a>This paper is about a technique to measure narrowing in coronary arteries diseases. </a>
+  <a>Modelo para auxílio no diagnóstico de estenoses em artérias coronárias</a>
   <br/> 
-  <a>[Download paper here](http://www.casaleiria.com.br/avaliacao/unisinos/pesquisa.html#page=34)</a>
 </h1>
+
+> This paper is about a technique to measure narrowing in coronary arteries diseases. 
+
+[Download paper here](http://www.casaleiria.com.br/avaliacao/unisinos/pesquisa.html#page=34)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

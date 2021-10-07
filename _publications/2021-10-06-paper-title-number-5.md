@@ -11,8 +11,10 @@ paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
 ---
 
 <h1 align="center">
-  <a>This study presents a pipeline to automatically determine the presence of nar-rowing in the right coronary artery (RCA) angiography exams, segmenting theartery silhouette, selecting regions of interest (ROIs) followed by a classificationmodel.  </a>
+  <a>Coronary Artery Disease Automatic Classification  </a>
   <br/> 
-  <a>[Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267)</a>
 </h1>
 
+> This study presents a pipeline to automatically determine the presence of nar-rowing in the right coronary artery (RCA) angiography exams, segmenting theartery silhouette, selecting regions of interest (ROIs) followed by a classificationmodel.
+
+[Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267)

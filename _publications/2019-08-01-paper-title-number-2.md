@@ -11,14 +11,15 @@ paperurl: 'http://publicacoes.cardiol.br/portal/abc/portugues/2019/v11303/pdf/sb
 ---
 
 <h1 align="center">
-  <a>This poster is about a technique to measure narrowing in coronary arteries diseases. </a>
+  <a>Software para auxílio no diagnóstico de estenoses em artérias coronárias </a>
   <br/> 
-  <a>[Download paper here](http://publicacoes.cardiol.br/portal/abc/portugues/2019/v11303/pdf/sbc-2019-programa-trabalhos.pdf)</a>
-  <br/>
-  <a>Recommended citation: NIENOW, Débora; FREITAS, Samuel; SCHMITH, Jean. Software para auxílio no diagnóstico de estenoses em artérias coronárias. Arq. Bras. Cardiol: 113 (2 sup l. 1) p. 254. 2019</a>
 </h1>
 
+> This poster is about a technique to measure narrowing in coronary arteries diseases.
 
+[Download paper here](http://publicacoes.cardiol.br/portal/abc/portugues/2019/v11303/pdf/sbc-2019-programa-trabalhos.pdf)
+
+> Recommended citation: NIENOW, Débora; FREITAS, Samuel; SCHMITH, Jean. Software para auxílio no diagnóstico de estenoses em artérias coronárias. Arq. Bras. Cardiol: 113 (2 sup l. 1) p. 254. 2019
 
 <!-- ---
 title: "Paper Title Number 2"

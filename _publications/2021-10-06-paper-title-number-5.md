@@ -2,7 +2,7 @@
 title: "Coronary Artery Disease Automatic Classification"
 collection: publications
 permalink: /publication/2021-10-06-paper-title-number-3
-excerpt: 'This paper is about the mathematical concepts in Electronics.'
+excerpt: 'This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA).'
 date: 2021-10-06
 venue: 'Escola Regional de Computação Aplicada à Saúde (ERCAS)'
 paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
@@ -15,6 +15,6 @@ paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
   <br/> 
 </h1>
 
-> This study presents a pipeline to automatically determine the presence of nar-rowing in the right coronary artery (RCA) angiography exams, segmenting theartery silhouette, selecting regions of interest (ROIs) followed by a classificationmodel.
+> This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA) angiography exams, segmenting theartery silhouette, selecting regions of interest (ROIs) followed by a classificationmodel.
 
 [Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267)

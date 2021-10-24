@@ -11,10 +11,12 @@ paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
 ---
 
 <h1 align="center">
-  <a>Coronary Artery Disease Automatic Classification  </a>
+  <a>Coronary Artery Disease Automatic Classification</a>
   <br/> 
 </h1>
 
 > This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA) angiography exams, segmenting theartery silhouette, selecting regions of interest (ROIs) followed by a classificationmodel.
 
 [Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267)
+
+> Recommended citation: FREITAS, Samuel A.; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. Coronary Artery Disease Automatic Classification. In: ESCOLA REGIONAL DE COMPUTAÇÃO APLICADA À SAÚDE (ERCAS), 8. , 2021, São Paulo. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 26-29. DOI: https://doi.org/10.5753/ercas.2021.17431.

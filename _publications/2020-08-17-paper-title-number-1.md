@@ -11,7 +11,7 @@ paperurl: 'https://sol.sbc.org.br/index.php/sbcas/article/view/11519/11382'
 ---
 
 <h1 align="center">
-  <a>Nodal Analysis for Coronary Artery Ischemia Diagnosis </a>
+  <a>Nodal Analysis for Coronary Artery Ischemia Diagnosis</a>
   <br/> 
 </h1>
 

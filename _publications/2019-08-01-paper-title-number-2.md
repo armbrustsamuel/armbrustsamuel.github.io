@@ -11,7 +11,7 @@ paperurl: 'http://publicacoes.cardiol.br/portal/abc/portugues/2019/v11303/pdf/sb
 ---
 
 <h1 align="center">
-  <a>Software para auxílio no diagnóstico de estenoses em artérias coronárias </a>
+  <a>Software para auxílio no diagnóstico de estenoses em artérias coronárias</a>
   <br/> 
 </h1>
 

@@ -17,8 +17,6 @@ paperurl: 'pending'
 
 > This study presents a systematic literature review over the coronary artery assessment techniques.
 
-_accepted_
+[Download paper here](https://link.springer.com/article/10.1007/s00508-021-01970-4)
 
-<!-- [Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267) -->
-
-<!-- > Recommended citation: FREITAS, Samuel A.; NIENOW, Débora; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. Functional Coronary Artery Assessment: a Systematic Literature Review. In: WIENER KLINISCHE WOCHENSCHRIFT, 2021. TO -->
+Recommended citation: FREITAS, Samuel A.; NIENOW, Débora; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. Functional Coronary Artery Assessment: a Systematic Literature Review. In: Wiener Klinische Wochenschrift, 2021.

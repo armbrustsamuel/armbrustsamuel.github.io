@@ -6,7 +6,7 @@ excerpt: 'This study presents systematic review applied to the coronary artery a
 date: 2021-01-11
 venue: 'Wiener Klinische Wochenschrift'
 paperurl: https://link.springer.com/article/10.1007/s00508-021-01970-4
-citation: FREITAS, Samuel A.; NIENOW, Débora; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. Functional Coronary Artery Assessment: a Systematic Literature Review. In: Wiener Klinische Wochenschrift, 2021
+# citation: FREITAS, Samuel A.; NIENOW, Débora; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. Functional Coronary Artery Assessment: a Systematic Literature Review. In: Wiener Klinische Wochenschrift, 2021
 
 ---
 

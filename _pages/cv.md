@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Lattes](http://lattes.cnpq.br/3769798668128552)
+[Lattes Curriculum Vitae](http://lattes.cnpq.br/3769798668128552)
 
 Education
 ======

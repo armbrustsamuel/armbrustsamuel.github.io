@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Lattes Curriculum Vitae](http://lattes.cnpq.br/3769798668128552)
+
 Education
 ======
 * Electronic Technician, Liberato, 2012
 * B.S Computer Engineer, Unisinos University, 2019
-* M.S. Applied Computing, Unisinos University, 2021 (expected)
+* M.S. Applied Computing, Unisinos University, 2021 
+* PhD Applied Computing, Unisinos University, 2025 (expected)
 
 Work experience
 ======
@@ -27,6 +30,7 @@ Work experience
 Skills
 ======
 * Research
+  * Deep Learning
   * Coronary artery diseases
   * Maths
   * Electronics
@@ -42,7 +46,11 @@ Skills
   * Secure design
   * Threat Assessment
 * Presentation
+  * Architecture Curriculum at SAP
+  * SAP Techschool 
 * Branding
+  * SAP products
+  * Research promotion
 
 Publications
 ======

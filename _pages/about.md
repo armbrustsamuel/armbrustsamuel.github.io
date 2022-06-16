@@ -10,15 +10,13 @@ redirect_from:
 
 My name is Samuel Armbrust, hi 👋. 
 
-I am M.Sc student at [Unisinos](http://www.unisinos.br/mestrado-e-doutorado/computacao-aplicada/presencial/sao-leopoldo/mestrado/discentes) working with Neural Networks. 
+<!-- https://www.unisinos.br/pos/images/modulos/estrito/discentes/computacao-aplicada/computacao-aplicada-doutorado.pdf -->
+
+I am PhD student at [Unisinos](https://www.unisinos.br/pos/images/modulos/estrito/discentes/computacao-aplicada/computacao-aplicada-mestrado.pdf) working with Neural Networks. 
 
 - 🔭 I’m currently working at SAP as a Software Architect.
 - 🌱 I’m currently learning Object Detection Networks and it is *definitely* not simple.
-- ⚡ I’m currently studying Coronary Artery Disease (CAD) on my Master's degree.
-- 🤔 I am passionate by Architecture, Healthcare researches and the German Culture.
-
-
-
-
+- ⚡ I’m currently studying Deep Learning applied to healthcare on my PhD.
+- 🤔 I am passionate about architecture, healthcare researches and the german culture.
 
 

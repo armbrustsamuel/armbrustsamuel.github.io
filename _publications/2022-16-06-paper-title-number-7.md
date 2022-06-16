@@ -1,5 +1,5 @@
 ---
-title: "Coronary Artery Disease Automatic Classification"
+title: "DEEPCADD: A Deep Neural Network for Automatic Detection of Coronary Artery Disease"
 collection: publications
 permalink: /publication/2022-16-06-paper-title-number-7
 excerpt: 'This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA).'

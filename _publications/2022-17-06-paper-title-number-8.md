@@ -1,11 +1,11 @@
 ---
-title: "Coronary Artery Disease Automatic Classification"
+title: "DEEPCADD: A Deep Neural Network for Automatic Detection of Coronary Artery Disease"
 collection: publications
 permalink: /publication/2022-17-06-paper-title-number-8
 excerpt: 'This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA).'
 date: 2022-17-06
 venue: 'IEEE International Joint Conference on Neural Networks (IJCNN)'
-paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
+# paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 
 ---

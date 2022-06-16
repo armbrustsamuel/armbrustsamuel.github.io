@@ -2,7 +2,7 @@
 title: "DEEPCADD: A Deep Neural Network for Automatic Detection of Coronary Artery Disease"
 collection: publications
 permalink: /publication/2022-06-17-paper-title-number-8
-excerpt: 'This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA).'
+excerpt: 'This study presents an Deep Learning architecture to automatically determine the presence of narrowing in the right coronary artery (RCA).'
 date: 2022-06-17
 venue: 'IEEE International Joint Conference on Neural Networks (IJCNN)'
 # paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
@@ -15,7 +15,7 @@ venue: 'IEEE International Joint Conference on Neural Networks (IJCNN)'
   <br/> 
 </h1>
 
-<!-- > This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA) angiography exams, segmenting the artery silhouette, selecting regions of interest (ROIs) followed by a classification model. -->
+> This study presents an Deep Learning architecture to automatically determine the presence of narrowing in the right coronary artery (RCA).
 
 <!-- [Download paper here](https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267) -->
 Not available for download yet.

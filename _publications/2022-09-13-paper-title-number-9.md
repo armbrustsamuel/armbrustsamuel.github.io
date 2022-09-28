@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-13-paper-title-number-9
 excerpt: 'We reported the development of an articial intelligence model for the automated classication of elementar lesions from oral clinical images, achieving satisfactory performance.'
 date: 2022-06-17
-# venue: 'IEEE International Joint Conference on Neural Networks (IJCNN)'
+venue: 'Springer Clinical Oral Investigation'
 # paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 

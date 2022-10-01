@@ -20,6 +20,6 @@ paperurl: 'https://doi.org/10.1109/IJCNN55064.2022.9892501'
 [Download paper here](https://doi.org/10.1109/IJCNN55064.2022.9892501)
 <!-- Not available for download yet. -->
 
-> Recommended citation: FREITAS, Samuel A.; ZEISER, Felipe; COSTA, Cristiano A. da; RAMOS, Gabriel de O.. DEEPCADD: A Deep Learning Architecture for Automatic Detection of Coronary Artery Disease. In: IEEE International Joint Conference on Neural Networks (IJCNN), 2022, Padua, Italy. IEEE. 
+> Recommended citation: S. A. Freitas, F. A. Zeiser, C. A. Da Costa and G. De O. Ramos, "DeepCADD: A Deep Learning Architecture for Automatic Detection of Coronary Artery Disease," 2022 International Joint Conference on Neural Networks (IJCNN), 2022, pp. 1-8, doi: 10.1109/IJCNN55064.2022.9892501.
 
 <!-- Sociedade Brasileira de Computação, 2021 . p. 26-29. DOI: https://doi.org/10.5753/ercas.2021.17431. -->

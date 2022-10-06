@@ -11,7 +11,7 @@ venue: 'Springer Clinical Oral Investigation'
 ---
 
 <h1 align="center">
-  <a>Use of artificial intelligence in the classification of elementary orallesions from clinical images</a>
+  <a>Use of artificial intelligence in the classification of elementary oral lesions from clinical images</a>
   <br/> 
 </h1>
 

@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Electronic Technician, Liberato, 2012
+* Electronic Technician, Liberato, 2014
 * B.S Computer Engineer, Unisinos University, 2019
 * M.S. Applied Computing, Unisinos University, 2021 
 * PhD Applied Computing, Unisinos University, 2025 (expected)

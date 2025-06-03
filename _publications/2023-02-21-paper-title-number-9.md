@@ -1,6 +1,7 @@
 ---
 title: "Use of artificial intelligence in the classification of elementary orallesions from clinical images"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-02-21-paper-title-number-9
 excerpt: 'We reported the development of an articial intelligence model for the automated classication of elementar lesions from oral clinical images, achieving satisfactory performance.'
 date: 2023-02-21

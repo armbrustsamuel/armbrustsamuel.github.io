@@ -1,6 +1,7 @@
 ---
 title: "DEEPCADD: A Deep Neural Network for Automatic Detection of Coronary Artery Disease"
 collection: publications
+category: conferences
 permalink: /publication/2022-06-16-paper-title-number-7
 excerpt: 'This study presents an Deep Learning architecture to automatically determine the presence of narrowing in the right coronary artery (RCA).'
 date: 2022-06-16

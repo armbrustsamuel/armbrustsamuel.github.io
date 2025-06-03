@@ -1,6 +1,7 @@
 ---
 title: "Coronary Artery Disease Automatic Classification"
 collection: publications
+category: conferences
 permalink: /publication/2021-10-06-paper-title-number-3
 excerpt: 'This study presents a pipeline to automatically determine the presence of narrowing in the right coronary artery (RCA).'
 date: 2021-10-06

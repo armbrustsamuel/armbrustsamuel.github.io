@@ -1,6 +1,7 @@
 ---
 title: "Software para auxílio no diagnóstico de estenoses em artérias coronárias"
 collection: publications
+category: conferences
 permalink: /publication/2019-08-01-paper-title-number-2
 excerpt: 'This poster is about a technique to measure narrowing in coronary arteries diseases.'
 date: 2019-08-01

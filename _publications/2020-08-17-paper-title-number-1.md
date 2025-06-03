@@ -1,6 +1,7 @@
 ---
 title: "Nodal Analysis for Coronary Artery Ischemia Diagnosis"
 collection: publications
+category: conferences
 permalink: /publication/2020-08-17-paper-title-number-1
 excerpt: 'This paper is about an electronic model for coronary artery narrowing analysis.'
 date: 2020-08-17

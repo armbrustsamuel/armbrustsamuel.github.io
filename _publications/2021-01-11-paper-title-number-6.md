@@ -1,6 +1,7 @@
 ---
 title: "Functional Coronary Artery Assessment: a Systematic Literature Review"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-11-paper-title-number-6
 excerpt: 'This study presents systematic review applied to the coronary artery assessment techniques'
 date: 2021-01-11

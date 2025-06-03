@@ -1,6 +1,7 @@
 ---
 title: "Modelo para auxílio no diagnóstico de estenoses em artérias coronárias"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-06-01-paper-title-number-4
 excerpt: 'This poster is about a technique to measure narrowing in coronary arteries diseases.'
 date: 2019-06-01

@@ -15,5 +15,3 @@ I am PhD _candidate_ at [Unisinos](https://www.unisinos.br/pos/stricto/images/mo
 - 🔭 Software Engineer @ SAP.
 - ⚡ Study Deep Learning and Domain Generalization applied to healthcare.
 - 🤔 Interested in architecture, healthcare and german language.
-
-

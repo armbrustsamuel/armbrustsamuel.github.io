@@ -20,15 +20,14 @@ Education
 
 Work experience
 ======
-* Software Intern: 2013
+* Software Intern: 2014
   * SAP Labs Latin America
-* Software Developer: 2014
+* Software Developer: 2015
   * S4HANA Sales and Distribution
 * Software Architect: 2021
   * S4HANA Nota Fiscal
 * Software Engineer: 2024
   * HANA BTP Big Data Fabric Services
-
   
 Skills
 ======
@@ -57,7 +56,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -69,7 +68,7 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

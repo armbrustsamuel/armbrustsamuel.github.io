@@ -6,9 +6,11 @@ permalink: /teaching/2025-teaching-1
 venue: "Unisinos, Bachelor's degree in Computer Science"
 date: 2025-03-01
 location: "São Leopoldo and Porto Alegre, Brazil"
+layout: single
+author_profile: true
 ---
 
-I joined the Bachelor's degree in Computer Science program at Universidade do Vale do Rio dos Sinos (Unisinos) as a professor, starting this semester. This new position allows me to contribute to the formation of future software engineers and computer scientists through three fundamental courses in the curriculum.
+I joined the Bachelor's degree in Computer Science program at Universidade do Vale do Rio dos Sinos (Unisinos) as a professor, starting this semester (2026 h1). This new position allows me to contribute to the formation of future software engineers and computer scientists through three fundamental courses in the curriculum.
 
 ## Courses
 

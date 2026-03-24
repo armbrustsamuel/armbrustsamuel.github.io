@@ -6,6 +6,8 @@ permalink: /teaching/2019-spring-teaching-1
 venue: "SAP"
 date: 2019-01-01
 location: "São Leopoldo, Brazil"
+layout: single
+author_profile: true
 ---
 
 Teaching SAPUI5 and JAVA for students in the SAP TechSchool.

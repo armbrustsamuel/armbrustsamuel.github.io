@@ -6,6 +6,8 @@ permalink: /teaching/2021-spring-teaching-1
 venue: "Unisinos, Programa de Pós Graduação em Computação Aplicada"
 date: 2021-01-01
 location: "São Leopoldo and Porto Alegre, Brazil"
+layout: single
+author_profile: true
 ---
 
 Working with Prof. PhD. Gabriel Ramos in the Programming I classes.

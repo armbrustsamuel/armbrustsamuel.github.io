@@ -7,6 +7,8 @@ excerpt: 'This study introduces a novel approach proposing self-awareness in det
 date: 2025-06-01
 venue: 'Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS) 2025'
 paperurl: 'https://doi.org/10.5753/sbcas.2025.7227'
+layout: single
+author_profile: true
 # citation: ''
 
 ---

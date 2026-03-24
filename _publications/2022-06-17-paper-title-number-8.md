@@ -7,6 +7,8 @@ excerpt: 'This study presents an Deep Learning architecture to automatically det
 date: 2022-06-17
 venue: 'IEEE International Joint Conference on Neural Networks (IJCNN)'
 paperurl: 'https://doi.org/10.1109/IJCNN55064.2022.9892501'
+layout: single
+author_profile: true
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 
 ---

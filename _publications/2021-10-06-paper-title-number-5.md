@@ -7,6 +7,8 @@ excerpt: 'This study presents a pipeline to automatically determine the presence
 date: 2021-10-06
 venue: 'Escola Regional de Computação Aplicada à Saúde (ERCAS) 2021'
 paperurl: 'https://sol.sbc.org.br/index.php/ercas/article/view/17431/17267'
+layout: single
+author_profile: true
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 
 ---

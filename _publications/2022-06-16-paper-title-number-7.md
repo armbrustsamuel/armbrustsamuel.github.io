@@ -7,6 +7,8 @@ excerpt: 'This study presents an Deep Learning architecture to automatically det
 date: 2022-06-16
 venue: 'Prêmio Artur Ziviani de Teses e Dissertações – CTD - Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)'
 paperurl: 'https://doi.org/10.5753/sbcas_estendido.2022.222389'
+layout: single
+author_profile: true
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 
 ---

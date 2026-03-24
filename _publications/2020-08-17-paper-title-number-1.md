@@ -7,6 +7,8 @@ excerpt: 'This paper is about an electronic model for coronary artery narrowing 
 date: 2020-08-17
 venue: 'Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS) 2020'
 paperurl: 'https://sol.sbc.org.br/index.php/sbcas/article/view/11519/11382'
+layout: single
+author_profile: true
 # citation: 'FREITAS, Samuel; RAMOS, Gabriel; SCHMITH, Jean; COSTA, Cristiano. Nodal Analysis for Coronary Artery Ischemia Diagnosis. In: Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 20. , 2020, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2020 . p. 262-272. DOI: https://doi.org/10.5753/sbcas.2020.11519.'
 
 ---

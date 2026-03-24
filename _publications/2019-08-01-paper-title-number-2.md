@@ -7,6 +7,8 @@ excerpt: 'This poster is about a technique to measure narrowing in coronary arte
 date: 2019-08-01
 venue: 'Journal of Brazilian Society of Cardiology ABC Cardiol - Arquivos Brasileiros de Cardiologia'
 paperurl: 'http://publicacoes.cardiol.br/portal/abc/portugues/2019/v11303/pdf/sbc-2019-programa-trabalhos.pdf'
+layout: single
+author_profile: true
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 
 ---

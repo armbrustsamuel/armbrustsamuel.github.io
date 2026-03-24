@@ -7,6 +7,8 @@ excerpt: 'We reported the development of an articial intelligence model for the 
 date: 2023-02-21
 venue: 'International Journal of Environmental Research and Public Health (Oral Diseases Diagnosis, Treatment, and Management special edition)'
 paperurl: 'https://doi.org/10.3390/ijerph20053894'
+layout: single
+author_profile: true
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 
 ---

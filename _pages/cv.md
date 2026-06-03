@@ -13,21 +13,23 @@ redirect_from:
 
 Education
 ======
-* Electronic Technician, Liberato, 2014
+* PhD Applied Computing, Unisinos University, 2026
+* M.S. Applied Computing, Unisinos University, 2022 
 * B.S Computer Engineer, Unisinos University, 2019
-* M.S. Applied Computing, Unisinos University, 2021 
-* PhD Applied Computing, Unisinos University, 2025 (expected)
+* Electronic Technician, Liberato, 2014
 
 Work experience
 ======
-* Software Intern: 2014
-  * SAP Labs Latin America
-* Software Developer: 2015
-  * S4HANA Sales and Distribution
-* Software Architect: 2021
-  * S4HANA Nota Fiscal
+* Software Architect: 2025
+  * SAP Globalization TAX
 * Software Engineer: 2024
   * HANA BTP Big Data Fabric Services
+* Software Architect: 2021
+  * SAP Globalization Logistics - Nota Fiscal
+* Software Developer: 2015
+  * SAP Globalization Logistics - Sales and Distribution
+* Software Intern: 2014
+  * SAP Globalization Logistics - Sales and Distribution
   
 Skills
 ======
@@ -42,6 +44,8 @@ Skills
   * ABAP
 * Architecture
   * Design Pattern
+  * Microservices 
+  * SAP Business Technology Platform
   * Documentation
   * Customer focus
 * Security
@@ -50,6 +54,7 @@ Skills
 * Presentation
   * Architecture Curriculum at SAP
   * SAP Techschool 
+  * SAP Labs Leadership Program
 * Branding
   * SAP products
   * Research promotion
